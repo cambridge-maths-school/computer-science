@@ -14,7 +14,7 @@ Most guides for the Pico use Python, and most devices you connect will have Pyth
 
 - The Pico should reboot itself, now running Javascript (you'll no longer see the drive volume, which is correct)
 
-- Open https://www.mathsuniverse.com/pico in a browser
+- Open [https://www.mathsuniverse.com/pico](https://www.mathsuniverse.com/pico) in a browser
 
 - Click "Connect to Pico" and select it from the list (you should see a welcome message in the black box)
 
@@ -37,7 +37,7 @@ The Pico has a green LED next to the micro-USB port, connected to the `GPIO25` p
   }, 100) // Runs every 100ms
   ```
 
-- Back on https://www.mathsuniverse.com/pico, "Open Javascript file" and choose the file you just made
+- Back on [https://www.mathsuniverse.com/pico](https://www.mathsuniverse.com/pico), "Open Javascript file" and choose the file you just made
 
 - Upload and run the JS file on the Pico by pressing "Run on Pico"
 
@@ -74,7 +74,7 @@ With your curcuit connected, plug your Pico back in and:
   }, 100)
   ```
 
-- Back on https://www.mathsuniverse.com/pico, "Open Javascript file" and choose the file
+- Back on [https://www.mathsuniverse.com/pico](https://www.mathsuniverse.com/pico), "Open Javascript file" and choose the file
 
 - Upload and run the JS file on the Pico by pressing "Run on Pico"
 
