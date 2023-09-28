@@ -6,4 +6,4 @@ Please do use the [issues](https://github.com/cambridge-maths-school/computer-sc
 
 Guides available:
 
-- [Using the Raspberry Pi Pico with Javascript](/pico)
+- [Using the Raspberry Pi Pico with Javascript](./pico)
