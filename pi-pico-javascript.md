@@ -239,8 +239,6 @@ Try running the code with the correct circuit and you should see the distance lo
 
 ## 7. Turning wheels with motors and a motor driver
 
-_NOTE: I haven't had a chance to try these yet. Please let me know if you make any progress with this!_
-
 `L298N` is a motor driver, driving up to 2 motors, which can be connected to wheels. Motors require more power than the 3.3V the Pico outputs, so you'll need separate power supplies for them. The kit we have includes battery packs holding 4 AA batteries. Each battery provides 1.5V, making 6V per pack. It looks like we need up to 12V here, so 2 battery packs connected in series (8 x 1.5V AA batteries in all). But actually, 1 battery pack with 4 x 1.5V AA batteries is enough for now.
 
 We're going to start by creating the simplest circuit we can for one motor, with forward/back/stop controls but no control over the speed.
